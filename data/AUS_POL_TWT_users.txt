@@ -1,0 +1,116 @@
+username|id|name|created_at|description
+SenatorAbetz|128440862|Eric Abetz|2010-04-01T03:46:59.000Z|Liberal Senator for Tasmania and Chair of the Senate Foreign Affairs, Defence and Trade Committee 🇦🇺
+Birmo|22196776|Simon Birmingham|2009-02-27T22:01:20.000Z|Leader of the Government in the 🇦🇺 Senate. Senator for South Australia. Minister for Finance. Proud Dad. Frustrated Crows fan.
+ajamesbragg|92430575|Senator Andrew Bragg|2009-11-25T02:43:47.000Z|Liberal Senator for New South Wales. Authorised by Andrew Bragg, Liberal Party, Sydney.
+SenRaffCiccone|171888155|Senator Raff Ciccone|2010-07-28T12:19:02.000Z|Federal Labor Senator for Victoria🇦🇺 Deputy Opposition Senate Whip🏛 @CollingwoodFC tragic⚫️⚪️ @danielricciardo @F1 @storm fan🏎⚡️
+MehreenFaruqi|236713668|Mehreen Faruqi|2011-01-11T06:02:39.000Z|Greens Senator for NSW. Feminist, Engineer, Migrant ✊🏽
+PaulineHansonOz|1471232930|Pauline Hanson 🇦🇺|2013-05-31T03:29:36.000Z|"Official Twitter | My tweets are signed -PH | Facebook: https://t.co/r4ECY6mETG | Authorised by P Hanson, Pauline Hanson's One Nation, Brisbane."
+KKeneally|18925120|Kristina Keneally|2009-01-13T02:28:44.000Z|Shadow Minister, Home Affairs, Immigration & Govt Accountability. Labor candidate for Fowler. 42nd NSW Premier. Mum, stillbirth parent. #OnYourSide
+JamesMcGrathLNP|2757922069|Placeholder|2014-08-23T06:03:40.000Z|Follow @SenatorMcGrath.
+NickMcKim|156077839|Nick McKim|2010-06-15T23:43:55.000Z|Greens Senator for lutruwita/Tasmania. Economic Justice/Immigration/Digital Rights. Authorised by N McKim, Australian Greens, Hobart.
+almclachlan1|738622227575242752|Senator Andrew McLachlan CSC|2016-06-03T06:43:56.000Z|"| Liberal Senator for South Australia | Latest news: https://t.co/jg28efj4be…"
+Deborah_ONeill|145444495|Deborah O'Neill|2010-05-19T00:35:28.000Z|Labor Senator for New South Wales  https://t.co/z1WmMRY91C
+SenPaterson|28791311|James Paterson|2009-04-04T13:22:02.000Z|Liberal Senator for Victoria and Chair, Joint Committee on Intelligence and Security. Authorised by James Paterson, 63 York St South Melbourne Victoria
+polley_helen|929373746|Helen Polley|2012-11-06T09:41:46.000Z|Labor Senator for Tasmania.  Authorised by Helen Polley, ALP Launceston.
+janet_rice|77209956|Janet Rice|2009-09-25T13:13:32.000Z|Greens Senator for Vic. Environmentalist. Scientist. Queer. Gardener. She/Her. Portfolios: Foreign Affairs/Transport/Forests, LGBTIQ+/Science/Multiculturalism
+Anne_Ruston|44302241|Anne Ruston|2009-06-03T05:37:14.000Z|Country girl & Senator for South Australia. Minister for Families and Social Services. Minister for Women's Safety.
+ZedSeselja|338036917|Zed Seselja|2011-07-18T23:49:46.000Z|Liberal Senator for the ACT.  🇦🇺 Minister for International Development and the Pacific. Authorised by Z Seselja, Liberal Party of Australia, Canberra.
+larissawaters|62776140|Larissa Waters|2009-08-04T10:00:07.000Z|Australian Greens Leader in the Senate, Co-Deputy Leader and Senator for Queensland. She/her. Authorised by L.Waters, The Greens, Brisbane.
+SenatorSurfer|573244782|Peter Whish-Wilson|2012-05-07T00:57:18.000Z|Greens Senator. “A warrior fighting inside the belly of the beast' - Capt Paul Watson. 🤛 for lutruwita/Tasmania 💚 and the world's oceans. Green not greed.
+AlboMP|254515782|Anthony Albanese|2011-02-19T12:47:33.000Z|Leader of the Australian Labor Party, MP for Grayndler, Rabbitohs Life Member. All content authorised by Anthony Albanese, ALP, Canberra.
+JohnAlexanderMP|930234593990414336|John|2017-11-14T00:43:04.000Z|
+karenandrewsmp|47318173|Karen Andrews MP|2009-06-15T12:00:34.000Z|Minister for Home Affairs.  Federal Member for McPherson.  Mechanical Engineer. Authorised by Karen Andrews LNP, Varsity Lakes QLD
+kevinandrewsmp|252331819|Kevin Andrews|2011-02-15T00:01:35.000Z|Federal Member for Menzies / Authorised by Kevin Andrews MP, Liberal Party of Australia, Doncaster, VIC
+AdamBandt|25960714|Adam Bandt|2009-03-23T05:39:19.000Z|“Enemy of the state”- Peter Dutton
+SharonBirdMP|92648503|Sharon Bird MP|2009-11-26T00:34:39.000Z|I'm a federal MP from the great Illawarra! Authorised by Sharon Bird, 74 Crown Street, Wollongong
+Bowenchris|150856088|Chris Bowen|2010-06-02T00:40:53.000Z|Husband to Bec. Dad to Grace & Max. Shadow Minister for Climate Change and Energy. Member for McMahon. 🔶◼️
+ScottBuchholzMP|252833329|Scott Buchholz MP|2011-02-16T00:48:06.000Z|Assistant Minister for Road Safety & Freight Transport. Federal LNP Member for Wright - including the Lockyer Valley, Scenic Rim, Logan & Gold Coast Hinterland
+Tony_Burke|22887941|Tony Burke|2009-03-05T06:01:11.000Z|Skye's husband, Dad and step-Dad, Labor MP, in spare time guitar, piano, poetry, theatre, kayaking and National Parks. authorised by Tony Burke MP, Punchbowl.
+LindaBurneyMP|157861165|Linda Burney MP|2010-06-21T03:07:30.000Z|Authorised by Linda Burney ALP Sydney Member for Barton. Contact me at Linda.Burney.MP@aph.gov.au
+joshburnsmp|1029612428026204160|Josh Burns|2018-08-15T06:15:06.000Z|Federal Labor Member for Macnamara. Authorised: J Burns ALP, St Kilda, VIC
+Mark_Butler_MP|220883243|Mark Butler MP|2010-11-29T03:21:23.000Z|Shadow Minister for Health and Ageing. Member for Hindmarsh. Authorised by M. Butler, 21 Commercial Road, Port Adelaide SA 5015.
+terrimbutler|44334649|Terri Butler MP|2009-06-03T10:40:52.000Z|I represent the people of Brisbane's inner south, and I'm the shadow minister for the environment and water. Authorised by T Butler ALP Stones Corner.
+AnthonyByrne_MP|259477075|Anthony Byrne|2011-03-02T00:22:07.000Z|Federal Member for Holt. Authorised by A. Byrne, ALP, Canberra.
+JEChalmers|258124400|Jim Chalmers MP|2011-02-27T01:07:02.000Z|Shadow Treasurer, Australian Labor MP for Rankin, proudly Logan, QLD born & bred.
+NickChampionMP|85951515|Nick Champion MP|2009-10-29T00:18:59.000Z|Federal Member for Spence. Labor. Retweets are not an endorsement.
+DarrenChesterMP|514866289|Darren Chester MP|2012-03-04T23:07:20.000Z|Member for Gippsland - Marathoner - surf lifesaver - Passionate about regional communities & road safety - left-handed - Swans fan
+LMChesters|96088711|Lisa Chesters MP|2009-12-11T08:43:37.000Z|Proud Federal Member for Bendigo
+JasonClareMP|88859872|Jason Clare MP|2009-11-10T05:30:16.000Z|Atticus & Jack's dad. Louise's husband. MP. Cricket Tragic. Pearl Jam fan. Star Wars kid. Authorised by Jason Clare ALP Canberra
+SharonClaydon|1075527246|Sharon Claydon|2013-01-10T03:16:51.000Z|Federal Member for Newcastle
+LibbyCokerMP|3099277759|Libby Coker MP|2015-03-20T08:54:26.000Z|Surf Coast local. Love our passionate communities! Proud to be the @AustralianLabor Member for Corangamite. Authorised by L Coker, ALP, Armstrong Creek.
+JulieCollinsMP|812382313|Julie Collins|2012-09-09T04:54:58.000Z|Shadow Minister for Agriculture, Federal Member for Franklin in Tassie. Mum to Georgie, Lochie & Xandy. Authorised by Paul Erickson ALP Canberra.
+MarkCoultonMP|481708709|Mark Coulton|2012-02-03T02:52:26.000Z|Federal Member for the Parkes electorate
+damiandrummp|2393667362|Damian Drum MP|2014-03-17T03:21:04.000Z|Federal Member for Nicholls and Nationals Chief Whip. Authorised by Damian Drum, National Party of Australia, Shepparton.
+PeterDutton_MP|20559705|Peter Dutton|2009-02-11T00:18:47.000Z|🇦🇺 Minister for Defence and Federal Member for Dickson.
+JasonFalinskiMP|759921684543451136|Jason Falinski MP - For The Beaches|2016-08-01T01:20:23.000Z|MP for Mackellar. Northern Beaches local 🌲🌊 Proud father. Nerdy economist 🤓. Authorised by Jason Falinski MP, Liberal Party of Australia, Narrabeen, NSW.
+fitzhunter|147869440|Joel Fitzgibbon|2010-05-25T07:31:27.000Z|Member for Hunter, putting labour back in the Labor Party. Authorised by Joel Fitzgibbon ALP Canberra
+PaulFletcherMP|77896983|Paul Fletcher|2009-09-28T02:09:18.000Z|Member for Bradfield and Minister for Communications, Urban Infrastructure, Cities and the Arts. Authorised by Paul Fletcher, Liberal Party, Sydney.
+NicolleFlint|2400738924|Nicolle Flint MP|2014-03-21T01:45:21.000Z|Member for Boothby. Proud Liberal. Doesn't tolerate rubbish views, especially about women!
+JoshFrydenberg|63942152|Josh Frydenberg|2009-08-08T09:45:57.000Z|Treasurer, Deputy Leader of the Liberal Party, Federal Member for Kooyong.
+stevegeorganas|104087034|Steve Georganas MP|2010-01-12T06:12:55.000Z|Dad, 'Papou', lifelong inner Adelaide resident, diehard @WestAdelaideFC fan. Federal Labor MP 2004-2013. and again from 2016. MP for Federal seat of Adelaide.
+andrewjgiles|713582779|Andrew Giles MP|2012-07-24T03:09:27.000Z|"Shadow Minister for Cities, Multicultural Affairs, Assisting Immigration | Authorised A Giles, ALP, Shop 23, 314-360 Childs Road, Mill Park, VIC"
+DaveGillespieMP|127083666|David Gillespie|2010-03-28T00:40:38.000Z|Federal Member for Lyne. The Nationals. Gastroenterologist and specialist physician.
+PatrickGormanMP|1069512940926062592|Patrick Gorman MP|2018-12-03T08:45:30.000Z|Married to Jess. Dad to Leo and Ruby. Federal Labor Member for Perth.  Shadow Assistant Minister for Western Australia.  Auth. by P. Gorman ALP Perth
+AlexHawkeMP|18864066|Alex Hawke MP|2009-01-11T11:18:28.000Z|Minister for Immigration, Citizenship, Migrant Services and Multicultural Affairs. Authorised by Alex Hawke, Liberal Party of Australia, Castle Hill NSW.
+JulianHillMP|750658704949678081|Julian Hill MP|2016-07-06T11:52:36.000Z|Federal Member for Bruce, Australian Parliament
+KevinHoganMP|859024531|Kevin Hogan|2012-10-03T01:50:23.000Z|Federal Member for Page. https://t.co/E6XVukcSoi  Authorised by Kevin Hogan MP, National Party of Australia 63 Molesworth St, Lismore 2480
+GregHuntMP|60483082|Greg Hunt|2009-07-27T03:59:34.000Z|Minister for Health and Aged Care + Federal Member for Flinders.
+Barnaby_Joyce|114936799|Barnaby Joyce|2010-02-17T02:54:07.000Z|Working hard trying to do my best for New England and our nation.
+RealBobKatter|310726037|Hon Bob Katter MP|2011-06-04T07:28:34.000Z|Katter's Australian Party (https://t.co/SDSXnSlKlD) Federal Member for Kennedy (https://t.co/qEqsnnTR9K)
+gedkearney|163767099|Ged Kearney|2010-07-07T06:29:42.000Z|Together for better.  Mother, Gran'ma, nurse, proud ex-union 'boss', RichmondFC, Labor Member for Cooper.
+CraigKellyMP|211371719|Craig Kelly MP|2010-11-03T02:07:37.000Z|Federal Member for Hughes • Party Leader • United Australia Party
+mattkeogh|18826874|Matt Keogh MP|2009-01-10T04:33:29.000Z|Federal Member for Burt, Shadow Min for Defence Industry & Shadow Min assisting in Small Business, husband, father (Auth'd by Matt Keogh, ALP, Kelmscott WA)
+PeterKhalilMP|253342973|Peter Khalil MP|2011-02-17T01:47:05.000Z|Labor Federal member for Wills. Authorised by P Khalil, Australian Labor Party, 240 Sydney Road, Coburg VIC 3058
+CatherineKingMP|47273818|Catherine King MP|2009-06-15T06:08:12.000Z|Federal Member for Ballarat. Shadow Minister for Infrastructure, Transport and Regional Development. Authorised by Catherine King, ALP, Ballarat.
+MadeleineMHKing|2902145304|Madeleine King MP|2014-11-17T00:43:43.000Z|Shadow Minister for Trade and Resources. Federal Member for Brand in WA. Representing the people of Kwinana & Rockingham. Authorised M King ALP Rockingham
+AndrewLamingMP|49499855|Andrew Laming|2009-06-22T01:56:08.000Z|https://t.co/Ht1XJNO1q8 Pollie, eye guy, lapsed travel writer. Don't be offended. Twitter's a dumpster. I tweet via other social &never login
+ALeighMP|322866759|Andrew Leigh|2011-06-23T21:40:11.000Z|Labor MP in the Australian Parliament. Dad of 3. Economist. Author of ‘Reconnected', 'Innovation + Equality', 'Randomistas', 'Battlers & Billionaires' & more.
+sussanley|92862419|Sussan Ley|2009-11-26T23:54:25.000Z|Minister for the Environment and Federal Member for Farrer, Australian Parliament. Authorised by Sussan Ley MP, Liberal Party of Australia.
+D_LittleproudMP|780554980847517696|David Littleproud MP|2016-09-26T23:49:44.000Z|Deputy Leader of @The_Nationals. Minister for Agriculture and Northern Australia and Member for Maranoa. Advocate for rural communities.
+NolaMarinoMP|569737805|The Hon. Nola Marino MP|2012-05-03T06:30:05.000Z|Assistant Minister for Regional Development and Territories. Member for Forrest. (Authorised by Nola Marino MP, Liberal Party of Australia, Bunbury WA)
+RichardMarlesMP|485139839|Richard Marles|2012-02-06T21:42:32.000Z|"Federal Labor Member of the Australian Parliament for Corio and Deputy Leader of the Australian Labor Party | Authorised by Richard Marles, ALP, Geelong"
+FionaMartinMP|1133297264896593920|Dr Fiona Martin|2019-05-28T09:01:38.000Z|Psychologist, former small businesswoman and your Federal Member for Reid.
+KristyMcBain|2397620882|Kristy McBain MP, Member for Eden Monaro|2014-03-19T10:17:34.000Z|Member for Eden-Monaro. Proud local working for the people of #EdenMonaro on Ngunnawal, Ngambri, Wiradjuri, Ngarigo & Yuin Country. Authorised Kristy McBain ALP
+M_McCormackMP|1195051945|Michael McCormack|2013-02-18T21:58:36.000Z|Federal Member for Riverina. Husband. Proud Dad of 3.
+BrianMitchellMP|16663973|Brian Mitchell MP|2008-10-09T09:04:04.000Z|Proud to serve the great people of Lyons, Tasmania, as their Federal Labor MP. Trek before Wars. All tweets mine except the dodgy ones.
+RobMitchellMP|198056642|Rob Mitchell|2010-10-03T06:37:12.000Z|Federal Labor Member for McEwen     All content authorised by Rob Mitchell MP Australian Labor Party Canberra
+ScottMorrisonMP|34116377|Scott Morrison|2009-04-22T00:51:17.000Z|Prime Minister of Australia and Federal Member for Cook. Authorised by S. Morrison, Liberal Party of Australia, Canberra.
+ShayneNeumannMP|117717402|Shayne Neumann|2010-02-26T11:25:12.000Z|Federal Member for Blair. Shadow Minister for Veterans' Affairs and Defence Personnel. Authorised by Shayne Neumann Australian Labor Party Ipswich.
+ClareONeilMP|57906313|Clare O'Neil MP|2009-07-18T10:42:03.000Z|MP for Hotham & Shadow Minister for Aged Care Services and Senior Australians
+JulieOwensMP|114596660|Julie Owens|2010-02-16T00:20:49.000Z|Julie Owens MP is the federal Labor member for Parramatta. All electoral material is authorised by Julie Owens MP, ALP, Parramatta.
+GrahamPerrettMP|251976625|Graham Perrett|2011-02-14T06:37:23.000Z|MP Moreton & Shadow Assistant Minister Education & Training; lawyer; teacher; husband; dad; author: 12th Fish; Big Fig; Solid Rock. Authorised: G Perrett
+fiboydphillips|526287118|Fiona Phillips MP|2012-03-16T11:16:01.000Z|Federal MP for Gilmore. NSW South Coast. Kiama to Tuross Head. Mum of Fab Four. 💕 Swimming & outdoors. Authorised by F. Phillips, 3/59 Junction St, Nowra.
+tanya_plibersek|307755781|Tanya Plibersek|2011-05-30T07:10:44.000Z|Shadow Minister for Education & Shadow Minister for Women, Member for Sydney. Authorised T Plibersek, ALP, Redfern.
+cporterwa|1559788717|Christian Porter|2013-07-01T05:55:23.000Z|"Minister for Industry, Science and Technology | Federal Member for Pearce"
+Melissa4Durack|753759070750998529|Melissa Price MP|2016-07-15T01:12:21.000Z|Member for Durack, Minister for Defence Industry, Minister for Science & Technology, Authorised by Melissa Price MP, Liberal Party of Australia.
+AmandaRishworth|86257323|Amanda Rishworth MP|2009-10-30T06:52:35.000Z|Federal Member for Kingston. Shadow Minister for Early Childhood Education and Development + Youth. Auth by Amanda Rishworth, ALP, Morphett Vale SA
+stuartrobertmp|21961243|Stuart Robert MP|2009-02-26T02:55:23.000Z|Minister for Employment, Workforce, Skills, Small and Family Business, Federal Member for Fadden. Authorised by S. Robert MP, LNP, Labrador, QLD
+MRowlandMP|210702383|Michelle Rowland|2010-11-01T03:44:31.000Z|Mum, Federal Labor Member for Greenway, Shadow Minister for Communications & NSW Labor Party President. Authorised by Michelle Rowland ALP Canberra.
+JoanneRyanLalor|1631812358|Joanne Ryan MP|2013-07-30T02:33:01.000Z|"Member for Lalor in the Australian Parliament, Opposition Whip || All content authorised by Joanne Ryan MP, Australian Labor Party, Werribee"
+MakeMayoMatter|4253031505|Rebekha Sharkie MP 💧|2015-11-16T04:40:15.000Z|Member for the Federal Seat of Mayo, SA. Mum of 3, keen fisho.
+billshortenmp|137198586|Bill Shorten|2010-04-26T02:59:56.000Z|Shadow Minister for the NDIS. Shadow Minister for Govt Services. Federal Member for Maribyrnong.
+TonySmithMP|2932863030|Tony Smith MP|2014-12-17T01:16:35.000Z|30th Speaker of @AbouttheHouse. Federal Member for Casey. Lifelong fan of the Holden Monaro and @CarltonFC.
+AnneWerriwa|718781363898322944|Anne Stanley MP|2016-04-09T12:43:26.000Z|Federal Member for Werriwa. All electoral communications authorised by Anne Stanley, Australia Labor Party, Hinchinbrook.
+zalisteggall|1089151295397621760|🌏 Zali Steggall MP|2019-01-26T13:21:19.000Z|Independent MP for Warringah, Working Mum, Olympian and Barrister, Authorised by Z Steggall, Level 2, 17-19 Sydney Rd, Manly
+James_Stevens|16780488|James Stevens MP|2008-10-15T12:13:46.000Z|Federal Member for Sturt
+MerylSwanson|1586960762|Meryl Swanson MP|2013-07-11T22:31:15.000Z|Federal Labor Member for Paterson. Former Radio Announcer 2NURFM. Mum of Two. Keen Golfer. ❤️our region.
+AngusTaylorMP|84750011|Angus Taylor MP|2009-10-24T02:43:30.000Z|Minister for Energy & Emissions Reduction. Federal Member for Hume. Authorised by Angus Taylor, Liberal Party of Australia, Goulburn.
+DanTehanWannon|139052672|Dan Tehan|2010-05-01T11:57:37.000Z|Minister for Trade, Tourism and Investment Member for Wannon
+stemplemanmp|850633596|Susan Templeman MP|2012-09-28T07:31:46.000Z|Federal Labor Member for Macquarie, proudly representing the Hawkesbury and Blue Mountains regions of NSW.
+MThistlethwaite|87395643|Matt Thistlethwaite|2009-11-04T08:44:34.000Z|Federal Member for Kingsford Smith, surfer, Rabbitohs fan and lover of good books. Authorised by Paul Erickson ALP Canberra.
+ThwaitesKate|1138293919836360704|Kate Thwaites|2019-06-11T03:56:33.000Z|Federal Member for Jagajaga. Authorised by K. Thwaites, ALP, 37 Burgundy St, Heidelberg.
+AlanTudgeMP|185932331|Alan Tudge|2010-09-02T04:56:34.000Z|Federal Member for Aston, Minister for Education and Youth
+MariaVamvakinou|308935814|Maria Vamvakinou|2011-06-01T07:37:51.000Z|Federal Member for Calwell, All content authorised by M Vamvakinou, ALP, Town Hall Broadmeadows Precinct Lvl 2, Office 1, 14 Dimboola Road Broadmeadows VIC 3047
+BertVanManen|131986906|Bert van Manen MP|2010-04-11T23:49:49.000Z|Federal Member for Forde. Authorised by Bert van Manen MP, Liberal National Party, Beenleigh QLD
+TimWattsMP|14294400|Tim Watts MP|2008-04-03T16:10:25.000Z|Labor Member for Gellibrand, Shadow Asst Minister for Communications & Cybersecurity. Authorised: Tim Watts, 97 Geelong Rd, #Footscray.
+AnikaWells|19204267|Anika Wells MP|2009-01-19T21:54:04.000Z|Trying to be a good ancestor.
+LucyWicksMP|2293950596|Lucy Wicks MP|2014-01-16T06:14:03.000Z|Tweeting from the beautiful NSW Central Coast. Authorised by Lucy Wicks MP, Liberal Party, West Gosford NSW.
+TimWilsonMP|20742888|Tim Wilson MP|2009-02-13T02:52:39.000Z|"Assist Minister 4 🏗, ⚡️& Emissions 📉 | Forward-looking, modern Liberal MP | Author, New Social Contract | Former Aus' Human Rights Commissioner | Notorious"
+JasonWood_MP|74049076|Jason Wood|2009-09-14T02:52:30.000Z|Assistant Minister for Customs, Community Safety and Multicultural Affairs, Federal Member for La Trobe. Authorised by Jason Wood.
+KenWyattMP|196039332|Ken Wyatt|2010-09-28T05:00:34.000Z|Federal Member for Hasluck & Minister for Indigenous Australians. Sign up for latest news & information - https://t.co/6Aw1N9ufvg
+SenatorAbetz|128440862|Eric Abetz|2010-04-01T03:46:59.000Z|Liberal Senator for Tasmania and Chair of the Senate Foreign Affairs, Defence and Trade Committee 🇦🇺
+Birmo|22196776|Simon Birmingham|2009-02-27T22:01:20.000Z|Leader of the Government in the 🇦🇺 Senate. Senator for South Australia. Minister for Finance. Proud Dad. Frustrated Crows fan.
+ajamesbragg|92430575|Senator Andrew Bragg|2009-11-25T02:43:47.000Z|Liberal Senator for New South Wales. Authorised by Andrew Bragg, Liberal Party, Sydney.
+SenRaffCiccone|171888155|Senator Raff Ciccone|2010-07-28T12:19:02.000Z|Federal Labor Senator for Victoria🇦🇺 Deputy Opposition Senate Whip🏛 @CollingwoodFC tragic⚫️⚪️ @danielricciardo @F1 @storm fan🏎⚡️
+MehreenFaruqi|236713668|Mehreen Faruqi|2011-01-11T06:02:39.000Z|Greens Senator for NSW. Feminist, Engineer, Migrant ✊🏽
+PaulineHansonOz|1471232930|Pauline Hanson 🇦🇺|2013-05-31T03:29:36.000Z|"Official Twitter | My tweets are signed -PH | Facebook: https://t.co/r4ECY6mETG | Authorised by P Hanson, Pauline Hanson's One Nation, Brisbane."
